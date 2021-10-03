@@ -1,9 +1,10 @@
 <h2>About Me</h2>
-- 👋 Hi, I’m @armohsin
-- 👀 I’m interested in Web technologies
-- 🌱 I’m currently in my 3rd year of Bacholers
-- 📫 reach me @BLACKCLA3W on twitter
-
+<ul>
+<li> 👋 Hi, I’m @armohsin</li>
+<li> 👀 I’m interested in Web technologies</li>
+<li> 🌱 I’m currently in my 3rd year of Bacholers</li>
+<li> 📫 reach me @BLACKCLA3W on twitter</li>
+</ul>
 <hr>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=armohsin&show_icons=true&theme=radical)
