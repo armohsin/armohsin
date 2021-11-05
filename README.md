@@ -4,6 +4,7 @@
 <li> 👀 I’m interested in Web technologies</li>
 <li> 🌱 I’m currently in my 3rd year of Bacholers</li>
 <li> 📫 reach me at <a href="https://www.linkedin.com/in/armohsin/">LinkedIn</a></li>
+<li> 🚧 Something Big coming soon 12/1 </li>
 </ul>
 <hr>
 
