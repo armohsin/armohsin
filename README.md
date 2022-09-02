@@ -2,7 +2,7 @@
 <ul>
 <li> 👋 Hi, I’m @armohsin</li>
 <li> 👀 I’m interested in Web technologies</li>
-<li> 🌱 I’m currently in my 3rd year of Bacholers</li>
+<li> 🌱 I’m currently doing my last Undergrad Year @COMSATS ISLAMABAD</li>
 <li> 📫 reach me at <a href="https://www.linkedin.com/in/armohsin/">LinkedIn</a></li>
 <li> 🚧 Front End Developer at <a href="https://cybersolx.com">CybersolX</a></li>
 </ul>
