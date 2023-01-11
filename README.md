@@ -1,10 +1,10 @@
 <h2>About Me</h2>
 <ul>
-<li> 👋 Hi, I’m @armohsin</li>
+  <li> 👋 Hi, I’m <a href="https://armohsin.vercel.app">@armohsin</a></li>
 <li> 👀 I’m interested in Web technologies</li>
 <li> 🌱 I’m currently doing my last Undergrad Year @COMSATS ISLAMABAD</li>
 <li> 📫 reach me at <a href="https://www.linkedin.com/in/armohsin/">LinkedIn</a></li>
-<li> 🚧 Front End Developer at <a href="https://cybersolx.com">CybersolX</a></li>
+<li> 🚧 Front End Developer at <a href="https://walkbyte.dev">WalkByte</a></li>
 </ul>
 <hr>
 
